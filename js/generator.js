@@ -18,7 +18,6 @@
  ]
 
 // Get random facts or tips and display them
-
 function getQuote() {
   var randomNumber = Math.floor(Math.random() * quotes.length);
   document.getElementById('newQuoteSection').innerHTML = quotes[randomNumber];

@@ -1,3 +1,6 @@
+// Reference:
+//CodingNepal.  Available from: https://www.codingnepalweb.com/quiz-app-with-timer-javascript/
+//
 //selecting all required elements
 const start_btn = document.querySelector(".start_btn button");
 const info_box = document.querySelector(".info_box");
